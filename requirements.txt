@@ -1,0 +1,10 @@
+matplotlib
+numpy
+scikit-learn
+scipy
+seaborn
+tqdm
+ipykernel
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
